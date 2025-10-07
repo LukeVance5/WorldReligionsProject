@@ -1,0 +1,19 @@
+{
+  "name": "worldreligionsproject",
+  "version": "1.0.0",
+  "description": "An interactive viewer on religious change, first using USA data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeVance5/WorldReligionsProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeVance5/WorldReligionsProject/issues"
+  },
+  "homepage": "https://github.com/LukeVance5/WorldReligionsProject#readme"
+}
