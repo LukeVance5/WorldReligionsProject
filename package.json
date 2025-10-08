@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LukeVance5/WorldReligionsProject/issues"
   },
-  "homepage": "https://github.com/LukeVance5/WorldReligionsProject#readme"
+  "homepage": "https://github.com/LukeVance5/WorldReligionsProject#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
 }
